@@ -26,6 +26,16 @@ The Senior Vice President of Sales
 The Vice President of Marketing
 Instacart Customers
 
+Tools/Libraries
+
+Data was analyzed using the following Python libraries:
+
+Pandas: Library for data manipulation and analysis.
+NumPy: Library for numerical computing.
+Matplotlib: Library for creating visualizations.
+Seaborn: Statistical data visualization library in Python.
+SciPy: Library for scientific and technical computing.
+
 WIth the sales and marketing departments being the main targets for this analysis, my goal as an analyst is to determine current sales
 revamp marketing strategies and attempt to maximize the efficiency of the company's marketing and sales efforts based on the uncovered insights.
 
